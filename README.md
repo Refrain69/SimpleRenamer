@@ -15,4 +15,11 @@ After:
 1. Drag and drop your folder.
 2. Double click the exe and write the directory.
 
+## Attention
+
+This project uses the default sorting behavior in Windows Explorer rather than Directory.GetFiles().
+
+That means the order of files will not be disrupted. 
+
 **No backup temporarily!**
+
